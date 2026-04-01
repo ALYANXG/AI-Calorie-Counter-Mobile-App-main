@@ -1,0 +1,25 @@
+# Dependencies
+**/node_modules/
+
+# API Keys / Secrets
+.env
+backend/.env
+
+# Build folders
+CalorieCounterApp/.expo/
+CalorieCounterApp/dist/
+CalorieCounterApp/utils/api.js
+backend/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#python environemt
+
+backend/PythonService/food_env
